@@ -1,5 +1,7 @@
 {
   "name": "zello-app",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "react"
 }
